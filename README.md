@@ -6,9 +6,7 @@
 
 - Kernel Threads
 
-- Virtual Memory
+- Virtual Memory & File System
   - Copy-on-Write (COW)
-
-- File System
   - Doubly Indirect Blocks
   - Symbolic Links

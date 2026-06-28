@@ -1,5 +1,5 @@
 
-### 1. Scheduler
+### Scheduler
 
 Implemented two process scheduling algorithms:
 
